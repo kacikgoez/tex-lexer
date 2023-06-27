@@ -43,7 +43,7 @@ The only step left is maximizing the expression. In order to do this, we take th
     \\sum_{m=1}^M  n_m - \\theta \\sum_{m=1}^M  N = 0 \\iff \\\\
     \\theta = \\frac{\\sum_{m=1}^M  n_m}{\\sum_{m=1}^M  N}
 \\end{align*}  
-\\newpage
+\\newpages
 
 \\subsection{(b)}
 
