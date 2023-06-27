@@ -28,7 +28,6 @@ let lexer = new Parser(`\\documentclass{article}
 \\newcommand*\\quickint[2]{\\int_{#1}^{#2}}
 
 \\title{SCML - Exercise 4}
-\\author{Ergi Isaraj (426115), Sven Plattes (397716), Kawa Acikgöz (376688)}
 \\date{April 2023}
 
 \\begin{document}
@@ -298,7 +297,6 @@ Median:
 \\newcommand*\\quickint[2]{\\int_{#1}^{#2}}
 
 \\title{SCML - Exercise 4}
-\\author{Ergi Isaraj (426115), Sven Plattes (397716), Kawa Acikgöz (376688)}
 \\date{April 2023}
 
 \\begin{document}
